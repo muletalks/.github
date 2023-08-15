@@ -1,6 +1,6 @@
 # MuleTalks 🚀
 
-![MuleTalks Banner](https://i0.wp.com/muletalks.dev/wp-content/uploads/2023/08/1-e1691417569285.png?fit=322%2C148&ssl=1)
+![MuleTalks Banner](https://muletalks.dev/wp-content/uploads/2023/08/White-Minimalist-Business-Logo.png)
 
 Welcome to **MuleTalks** - the premier destination for all things MuleSoft! Dive deep into the world of integration, discover best practices, and stay updated with the latest trends in MuleSoft development.
 
