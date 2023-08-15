@@ -1,4 +1,4 @@
-![MuleTalks Banner](https://muletalks.dev/wp-content/uploads/2023/08/White-Minimalist-Business-Logo.png)
+![MuleTalks Banner](https://muletalks.dev/wp-content/uploads/2023/08/White-Minimalist-Business-Logo2.png)
 
 Welcome to **MuleTalks** - the premier destination for all things MuleSoft! Dive deep into the world of integration, discover best practices, and stay updated with the latest trends in MuleSoft development.
 
@@ -8,22 +8,15 @@ Welcome to **MuleTalks** - the premier destination for all things MuleSoft! Dive
 - **DevOps Insights**: Master the art of DevOps with our in-depth articles and guides.
 - **Community Engagement**: Join our community discussions, share your insights, and learn from fellow MuleSoft enthusiasts.
 
-## 🌐 Welcome POST
-- [Welcome Post](https://muletalks.dev/2023/08/10/welcome-to-muletalks/)
-
-> Stay tuned for more exciting content!
-
 ## 🤝 Connect With Us
 
 - **Twitter**: [MuleTalks Twitter](https://twitter.com/muletalks)
 
 ## 🖋 About the Authors
 
-### Mihael Bosnjak
-[LinkedIn](https://www.linkedin.com/in/mihaelbos/).
+### [Mihael Bosnjak](https://www.linkedin.com/in/mihaelbos/)
 
-### Andreas Oberrauter
-[LinkedIn](https://www.linkedin.com/in/andreasoberrauter/).
+### [Andreas Oberrauter](https://www.linkedin.com/in/andreasoberrauter/)
 
 
 ## 🤖 Contribute
