@@ -21,7 +21,7 @@ Welcome to **MuleTalks** - the premier destination for all things MuleSoft! Dive
 
 ## 🤖 Contribute
 
-We're always on the lookout for contributors. If you have a MuleSoft story to tell, a best practice to share, or a tutorial to teach, consider writing for MuleTalks! Check out our [Contributor's Guide](LINK_TO_CONTRIBUTOR_GUIDE) for more information.
+We're always on the lookout for contributors. If you have a MuleSoft story to tell, a best practice to share, or a tutorial to teach, consider writing for MuleTalks! Check out our [Contributor's Guide](https://github.com/muletalks/public-assets/blob/master/CONTRIBUTING.md) for more information.
 
 ---
 
